@@ -1,4 +1,4 @@
-# Opalmer Frontend (Education App)
+# Leaning Management System App(Classpulse)
 
 This is the Flutter application for the Opalmer Education platform. It features an interactive UI with real-time communication, AI text recognition, and data visualization.
 
